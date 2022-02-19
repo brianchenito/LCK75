@@ -1,6 +1,6 @@
 # LCK75
 
-a 75% through-hole keyboard designed by myself with inspiration from the CFTKB Discipline and Yiancar Gingham
+a 75% through-hole keyboard designed by Lysol1 with inspiration from the CFTKB Discipline and Yiancar Gingham
 
 ![LCK75-Mainboard](https://cdn.discordapp.com/attachments/362014190984101899/831992780460654672/fa259e3c6737deba2826ca5cbbe8f99c.png)
 
